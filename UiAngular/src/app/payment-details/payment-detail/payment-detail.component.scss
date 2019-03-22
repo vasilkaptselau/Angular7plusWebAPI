@@ -1,0 +1,30 @@
+$brd-left: transparent;
+$brd-right: #CED4DA;
+$brd-color-invalid: #dc3545;
+$brd-color-valid: #28a745;
+
+input {
+    &.ng-invalid.ng-touched {
+        border-color: $brd-color-invalid;
+        border-left-color: $brd-left;
+    }
+    &.ng-valid {
+        border-color: $brd-color-valid;
+        border-left-color: $brd-left;
+    }
+}
+.icon__valid {
+    color: $brd-color-valid;
+    border-color: $brd-color-valid;
+    border-right-color: $brd-right;
+}
+.icon__invalid {
+    color: $brd-color-invalid;
+    border-color: $brd-color-invalid;
+    border-right-color: $brd-right;
+}
+#toastr-container {
+    & div {
+        opacity: 1;
+    }
+}

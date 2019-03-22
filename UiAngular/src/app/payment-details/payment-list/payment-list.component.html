@@ -1,0 +1,11 @@
+<table class="table table-striped">
+    <tbody>
+      <tr *ngFor="let dtl of service.paymentList">
+        <th (click)="populateForm(dtl)">{{dtl.OwnerId}}</th>
+        <td (click)="populateForm(dtl)">{{dtl.CardOwnerName}}</td>
+        <td (click)="populateForm(dtl)">{{dtl.CardNumber}}</td>
+        <td (click)="populateForm(dtl)">{{dtl.ExpirationDate}}</td>
+        <td><i class="far fa-trash-alt fa-lg text-danger" (click)="onDelete(OwnerId)"></i></td>
+      </tr>
+    </tbody>
+</table>
