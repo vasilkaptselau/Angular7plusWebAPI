@@ -1,0 +1,14 @@
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\bin\Debug\netcoreapp2.1\aspNetAngular.deps.json
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\bin\Debug\netcoreapp2.1\aspNetAngular.runtimeconfig.json
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\bin\Debug\netcoreapp2.1\aspNetAngular.runtimeconfig.dev.json
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\bin\Debug\netcoreapp2.1\aspNetAngular.dll
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\obj\Debug\netcoreapp2.1\aspNetAngular.csprojAssemblyReference.cache
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\obj\Debug\netcoreapp2.1\aspNetAngular.csproj.CoreCompileInputs.cache
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\obj\Debug\netcoreapp2.1\aspNetAngular.RazorAssemblyInfo.cache
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\obj\Debug\netcoreapp2.1\aspNetAngular.RazorAssemblyInfo.cs
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\obj\Debug\netcoreapp2.1\aspNetAngular.AssemblyInfoInputs.cache
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\obj\Debug\netcoreapp2.1\aspNetAngular.AssemblyInfo.cs
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\obj\Debug\netcoreapp2.1\aspNetAngular.RazorTargetAssemblyInfo.cache
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\bin\Debug\netcoreapp2.1\aspNetAngular.pdb
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\obj\Debug\netcoreapp2.1\aspNetAngular.dll
+C:\Users\geomi\Desktop\youtube_tutorials\aspNetAngular\aspNetAngular\aspNetAngular\obj\Debug\netcoreapp2.1\aspNetAngular.pdb
